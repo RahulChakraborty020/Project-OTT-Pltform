@@ -1,0 +1,9 @@
+{
+    "editor.snippets.codeActions.enabled": false,
+    "editor.snippetSuggestions": "none",
+    "editor.suggest.showSnippets": false,
+    "C_Cpp.suggestSnippets": false,
+    "javascript.suggest.classMemberSnippets.enabled": false,
+    "typescript.suggest.classMemberSnippets.enabled": false,
+    "typescript.suggest.objectLiteralMethodSnippets.enabled": false
+}

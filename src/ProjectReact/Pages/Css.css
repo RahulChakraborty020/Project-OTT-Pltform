@@ -1,0 +1,216 @@
+
+
+
+
+.custom-carousel .carousel-item{
+    flex: 0 0 30%; 
+    transition: transform 0.5s ease-in-out;
+}
+
+ .custom-carousel .carousel-item img {
+    width: 33.33%;
+}
+
+.custom-p{
+    margin-top: 230px;
+   
+}
+
+.back-co{
+    background-color: black;
+}
+
+.co-text{
+    background-color: #FF007F;
+ 
+}
+
+.co-but{
+    background-color: #FF007F;
+    color: white;
+ border-radius: 39px; 
+}
+
+.custom-width{
+    width: 172px;
+    border-radius: 12px;
+}
+
+
+.custom-margin{
+    margin-left: 320px;
+}
+
+.custom-icon{
+    margin-left: 300px;
+    
+}
+
+.custom-downodlogo{
+    width: 100px;
+    border-radius: 10px;
+}
+
+.custom-mar{
+    margin-top: -0.75rem;
+}
+
+
+.custom-background{
+    background-color: #111;
+}
+
+.custom-wi{
+    width: 50px;
+}
+
+  @media(max-width: 900px){
+    .custom-mediaq{
+      font-size: 13px;
+      padding: 1px 3px ;
+      white-space: nowrap;
+    }
+  }
+
+  @media(max-width: 650px){
+    .custom-mediaq{
+      font-size: 7px;
+      padding: 1px 3px ;
+      white-space: nowrap;
+    }
+  }
+
+  @media(max-width: 900px){
+    .custom-text{
+      font-size: 12px;
+      white-space: nowrap;
+    }
+  }
+
+  @media(max-width: 750px){
+    .custom-text{
+      font-size: 10px;
+      white-space: nowrap;
+    }
+  }
+  @media(max-width: 500px){
+    .custom-text{
+      font-size: 7px;
+      white-space: nowrap;
+    }
+  }
+
+  .custom-subcribe{
+    border: 1px solid gold;
+    background-color: purple;
+    color: gold;
+    border-radius: 4px;
+    margin-left: 25px;
+
+  }
+  .custom-padding{
+    padding-left: 300px;
+  }
+
+  .color-custom{
+    background-color: purple;
+  }
+
+  .custom-div{
+    background-color: purple;
+    border-radius: 7px;
+    border: 2px solid gold;
+  }
+
+  .custom-button{
+    border-radius: 80px;
+    width: 200px;
+    background-color: #FF007F;
+    border: 1px solid black;
+  }
+
+  .custom-butt{
+    border-radius: 5px;
+    background-color: purple;
+  }
+
+  .custom-imgk{
+    border-radius: 19px;
+  }
+
+  .custom-img{
+    border-radius: 60px;
+  }
+
+
+  @media(max-width:500px){
+    .custom-bnt{
+      font-size: 9px;
+     
+     
+    }
+  }
+
+  @media(max-width:420px){
+    .custom-bnt{
+      font-size: 6px;
+      padding: 1px 1px;
+     
+     
+    }
+  }
+
+  @media(max-width:370px){
+    .custom-bnt{
+      font-size: 4px;
+ 
+    }
+  }
+
+  @media(max-width:320px){
+    .custom-bnt{
+      font-size: 2px;
+    
+    }
+  }
+
+  .border-bottom{
+    border-bottom: 2px solid white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    outline: none;
+  }
+
+  .custom-color{
+    background-color: #FF007F;
+    border: 1px solid #FF007F;
+    width: 55%;
+    height: 125%;
+    border-radius: 15px;
+    
+  }
+
+  .image-container:hover{
+    transform: scale(1.2);
+    border-radius: 30px;  
+     overflow: hidden;
+ }
+
+.custom-hover:hover{
+  transform: scale(1.1);
+    border-radius: 20px;  
+     overflow: hidden;
+}
+
+.custom-go{
+  color: #FF007F;
+}
+
+  
+
+
+
+
+

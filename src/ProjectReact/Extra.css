@@ -1,0 +1,89 @@
+.custom-modal{
+transform: translateX(40.8%);
+border: 0;
+ }
+
+ .custom-pink-background{
+    background-color: #FF007F;
+ }
+
+ .pink-text{
+    color: #FF007F;
+    font-size: 12px;
+ } 
+ .text-small{
+    font-size: 9px;
+ }
+
+ .place-color::placeholder{
+
+    color: white;
+ }
+
+ .place-color{
+    border-radius: 200px;
+ 
+ }
+
+ .custom-border{
+    border: 2px solid #B8860B;
+    border-radius: 58px;
+    width: 100px;
+    
+ }
+
+ .custom-foryou{
+    border: 2px solid silver;
+    border-radius: 58px;
+  
+    
+ }
+
+ .custom-carousel{
+    width: 20px;
+ }
+
+ .custom-size{
+  height: 42px;
+  width: 42px;
+ }
+
+ .custom-downodlogo{
+   width: 100px;
+   border-radius: 10px;
+}
+
+.custom-mar{
+   margin-top: -0.75rem;
+}
+
+
+.custom-background{
+   background-color: #111;
+}
+.custom-wi{
+   width: 50px;
+}
+
+
+.custom-navbar-collapse{
+   width: 10%;
+  
+}
+
+
+.custom-width-height{
+   width: 35px;
+   height: 35px;
+}
+
+
+.custom-row{
+   margin-top: -5px;
+}
+
+.sticky-top{
+   position: fixed;
+   width: 100%;
+}
+
